@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "bash_friend"
+  site-url: "https://daburer.github.io/bash_friend"
+  description: "Your best bash terminal friend. A lightweight shellsage implementation."
+  repo-branch: main
+  repo-url: "https://github.com/daburer/bash_friend"
