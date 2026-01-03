@@ -104,8 +104,12 @@ find package manager specific guidelines on
 $ bfriend "Use your tools to look for the README.md file and tell me in two sentces who you are"
 ```
 
-output:
+output: \> \>Based on the README.md file, here’s who I am in two
+sentences:
 
-    Based on the README.md file, here's who I am in two sentences:
-
-    I'm **bash_friend**, an AI-powered terminal assistant that captures your tmux terminal history and uses Claude Sonnet 4.5 to help you with command-line tasks by understanding the context of what you've been doing. I can view files, search through code with ripgrep, and answer questions about your terminal environment, codebases, and debugging issues - all while being aware of your current session.
+> I’m **bash_friend**, an AI-powered terminal assistant that captures
+> your tmux terminal history and uses Claude Sonnet 4.5 to help you with
+> command-line tasks by understanding the context of what you’ve been
+> doing. I can view files, search through code with ripgrep, and answer
+> questions about your terminal environment, codebases, and debugging
+> issues - all while being aware of your current session.
