@@ -1,0 +1,1 @@
+Sitemap: https://daburer.github.io/bash_friend/sitemap.xml
