@@ -83,6 +83,12 @@ or from [pypi](https://pypi.org/project/bash_friend/)
 $ pip install bash_friend
 ```
 
+### Setup
+
+You’ll need an `ANTHROPIC_API_KEY` environment variable set:
+
+    export ANTHROPIC_API_KEY="your-key-here"
+
 ### Documentation
 
 Documentation can be found hosted on this GitHub
@@ -94,10 +100,6 @@ find package manager specific guidelines on
 
 ## How to use
 
-Fill me in please! Don’t forget code examples:
-
 ``` python
-1+1
+!bfriend "Use your tools to look for the README.md file and tell me in two sentces who you are"
 ```
-
-    2
